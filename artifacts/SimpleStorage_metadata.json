@@ -1,0 +1,59 @@
+{
+	"compiler": {
+		"version": "0.8.26+commit.8a97fa7a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "favoriteNumber",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"SimpleStorage.sol": "SimpleStorage"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"SimpleStorage.sol": {
+			"keccak256": "0x0a1cfc71113a27c0258ce5f208f0210a6dac877ad66c7bfca1d6aeb0e89ccbca",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://0fd5278ccd2b446450aa0468afa2b85d4a57f3e0c5d58fdf4c41ee2486102f23",
+				"dweb:/ipfs/QmcGRdHHoFz1haWNP7hqQCFasoMwREc22vZWfNuhFj3Snf"
+			]
+		}
+	},
+	"version": 1
+}
