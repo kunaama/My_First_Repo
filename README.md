@@ -1,7 +1,7 @@
 ### The steps I took in setting up my development environment are as follows;
 1. I opened and accessed Remix ID on my browser.
 2. I then navigated to the file explorer from the Remix ID interface.
-3. I clicked on the workspace actions and selected 'create blank'.
+3. I clicked on the workspace actions and selected [create blank]().
 4. I then created a new workspace and named it [MyFirstSmartContract]().
 5. Within the workspace [MyFirstSmartContract](), I created a new file with [.sol]() extension and named it [SimpleStorage.sol]() to complete the set up of my development environment.
 
