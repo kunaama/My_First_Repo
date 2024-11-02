@@ -16,5 +16,5 @@ I clicked on the [SimpleStorage.sol]() file in the workspace within which I star
 5. The deployment of the contract was also done by selecting the [deploy and run transactions]() symbol from the side bar and clicked on the deploy button to successfully deployed the contract.
 
 ### The challenge I faced was how to push the work to my GitHub repository.
-I was able to overcome the challenge by the assistance of Mr. Likem via WhatsApp, with the aid of a video made by Sahabia and some videos on YouTube.
+I was able to overcome the challenge by the assistance of Mr. Likem via [WhatsApp](), with the aid of a video made by Sahabia and some videos on [YouTube]().
 
