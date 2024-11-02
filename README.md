@@ -1,4 +1,4 @@
->The steps I took in setting up my development environment are as follows;
+### The steps I took in setting up my development environment are as follows;
 1. I opened and accessed Remix ID on my browser.
 2. I then navigated to the file explorer from the Remix ID interface.
 3. I clicked on the workspace actions and selected 'create blank'.
@@ -6,7 +6,7 @@
 5. Within the workspace 'MyFirstSmartContract', I created a new file with .sol extension and named it 'SimpleStorage.sol' to complete the set up of my development environment.
 
 #### After the development environment was all set and done, I wasted no time as I was eager to write my fist smart contract. 
->I clicked on the 'SimpleStorage.sol' file in the workspace within which I started writing by;
+#### I clicked on the 'SimpleStorage.sol' file in the workspace within which I started writing by;
 1. Typing // SPDX-License-Identifier: MIT to represent my contract license.
 2. I then typed 'pragma solidity ^0.8.25;' to specify the compiler version to be used in compiling my code.
 3. I then declared my contract typing 'contract SimpleStorage {
