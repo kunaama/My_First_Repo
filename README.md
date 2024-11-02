@@ -18,3 +18,13 @@ I clicked on the [SimpleStorage.sol]() file in the workspace within which I star
 ### The challenge I faced was how to push the work to my GitHub repository.
 I was able to overcome the challenge by the assistance of Mr. Likem via [WhatsApp](), with the aid of a video made by Sahabia and some videos on [YouTube]().
 
+### The features implemented in my smart contract include the following;
+1. Data types and variables.
+2. Solidity functions, conditionals and loops.
+3. Visibility specifiers.
+4. Arrays, structs and enums.
+Data types and variables are the basic building blocks of solidity without which we can not execute smart contracts. Examples of data types in solidity are Boolean [bool](), Unsigned Integer [uint]() among others.
+Solidity functions are used to interact with the blockchain and manage the behavior of contracts.
+Visibility specifiers in solidity determine how and where functions and state variables can be accessed. They control who can interact with different parts of your contract. 
+
+
