@@ -23,8 +23,11 @@ I was able to overcome the challenge by the assistance of Mr. Likem via [WhatsAp
 2. Solidity functions, conditionals and loops.
 3. Visibility specifiers.
 4. Arrays, structs and enums.
-Data types and variables are the basic building blocks of solidity without which we can not execute smart contracts. Examples of data types in solidity are Boolean [bool](), Unsigned Integer [uint]() among others.
-Solidity functions are used to interact with the blockchain and manage the behavior of contracts.
-Visibility specifiers in solidity determine how and where functions and state variables can be accessed. They control who can interact with different parts of your contract. 
+##### Data types and variables are the basic building blocks of solidity without which we can not execute smart contracts. Examples of data types in solidity are Boolean [bool](), Unsigned Integer [uint]() among others.
+##### Solidity functions are used to interact with the blockchain and manage the behavior of contracts.
+##### Visibility specifiers in solidity determine how and where functions and state variables can be accessed. They control who can interact with different parts of your contract. 
+##### Arrays in solidity are used to store multiple values of the same data type in a single variable. 
+##### Structs in Solidity allow you to define complex data types that group multiple properties together. Structs are particularly useful for representing entities or records that have various attributes, making your code more organized and easier to manage.
+##### Enums in Solidity allow you to define a set of named values, known as enumerators, which represent a limited set of possible states or options. Enums are particularly useful for managing state within a contract, such as the status of a transaction or the role of a user.
 
 
