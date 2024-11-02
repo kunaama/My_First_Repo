@@ -3,7 +3,7 @@
 2. I then navigated to the file explorer from the Remix ID interface.
 3. I clicked on the workspace actions and selected 'create blank'.
 4. I then created a new workspace and named it [MyFirstSmartContract]().
-5. Within the workspace [MyFirstSmartContract](), I created a new file with .sol extension and named it [SimpleStorage.sol]() to complete the set up of my development environment.
+5. Within the workspace [MyFirstSmartContract](), I created a new file with [.sol]() extension and named it [SimpleStorage.sol]() to complete the set up of my development environment.
 
 ### After the development environment was all set and done, I wasted no time as I was eager to write my fist smart contract. 
 I clicked on the [SimpleStorage.sol]() file in the workspace within which I started writing by;
